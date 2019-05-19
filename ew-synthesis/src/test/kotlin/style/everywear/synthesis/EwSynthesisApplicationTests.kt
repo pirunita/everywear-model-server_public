@@ -1,4 +1,4 @@
-package style.everywear.fittingapi
+package style.everywear.synthesis
 
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -7,10 +7,10 @@ import org.springframework.test.context.junit4.SpringRunner
 
 @RunWith(SpringRunner::class)
 @SpringBootTest
-class EwFittingApiApplicationTests {
+class EwSynthesisApplicationTests {
 
-	@Test
-	fun contextLoads() {
-	}
+    @Test
+    fun contextLoads() {
+    }
 
 }

@@ -1,4 +1,4 @@
 rootProject.name = 'everywear-model-server'
 
+include 'ew-synthesis'
 include 'ew-fitting'
-include 'ew-fitting-api'

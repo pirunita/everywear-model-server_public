@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class EwFittingApplication
 
 fun main(args: Array<String>) {
-    runApplication<EwFittingApplication>(*args)
+	runApplication<EwFittingApplication>(*args)
 }

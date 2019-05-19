@@ -1,11 +1,11 @@
-package style.everywear.fittingapi
+package style.everywear.synthesis
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class EwFittingApiApplication
+class EwSynthesisApplication
 
 fun main(args: Array<String>) {
-	runApplication<EwFittingApiApplication>(*args)
+    runApplication<EwSynthesisApplication>(*args)
 }
