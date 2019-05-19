@@ -1,5 +1,5 @@
-ew-fitting/.gradle
-/build/
+.gradle
+build/
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
@@ -16,14 +16,14 @@ ew-fitting/.gradle
 *.iws
 *.iml
 *.ipr
-/out/
+out/
 
 ### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
 
 ### VS Code ###
 .vscode/
