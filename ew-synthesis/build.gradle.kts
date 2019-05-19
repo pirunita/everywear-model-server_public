@@ -21,6 +21,9 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
+
+    // TensorFlow CPU
+    implementation("org.tensorflow:tensorflow:1.13.1")
 }
 
 tasks.withType<KotlinCompile> {
