@@ -1,0 +1,24 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 5MB
+
+  cloud:
+    stream:
+      bindings:
+        inboundSynthesisComplete:
+          destination: synthesisCompleteTopic
+          content-type: application/json
+          group: fittingGroup
+        outboundSynthesisRequest:
+          destination: synthesisRequestTopic
+          content-type: application/json
+        kafka:
+          binder:
+            zkNodes: localhost
+            brokers: localhost
+
+logging:
+  level:
+    style.everywear.synthesis: debug

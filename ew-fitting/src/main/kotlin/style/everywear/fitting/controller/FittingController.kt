@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.RestController
 import org.springframework.web.multipart.MultipartFile
 import style.everywear.fitting.service.FileSystemUploadService
+import style.everywear.fitting.service.FittingService
 import java.util.*
 
 @RestController
@@ -17,11 +18,13 @@ import java.util.*
 class FittingController {
 
     @Autowired
-    val fileSystemUploadService = FileSystemUploadService()
+    lateinit var fileSystemUploadService: FileSystemUploadService
 
-    @RequestMapping(value = ["/"], method = [RequestMethod.POST], consumes = [MediaType.MULTIPART_FORM_DATA_VALUE])
+    @Autowired
+    lateinit var fittingService: FittingService
+
+    @RequestMapping(method = [RequestMethod.POST], consumes = [MediaType.MULTIPART_FORM_DATA_VALUE])
     fun requestFitting(@RequestParam("profile") file: MultipartFile): ResponseEntity<Map<String, String>> {
-
         var entity: ResponseEntity<Map<String, String>>
         var response: Map<String, String>
 
@@ -35,6 +38,8 @@ class FittingController {
             response = Collections.singletonMap("message", "사진 업로드에 실패하였습니다.")
             entity = ResponseEntity(response, HttpStatus.BAD_REQUEST)
         }
+
+        fittingService.publishSynthesisRequest()
 
         return entity
     }

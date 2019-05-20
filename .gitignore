@@ -27,3 +27,5 @@ nbdist/
 
 ### VS Code ###
 .vscode/
+
+/uploads/

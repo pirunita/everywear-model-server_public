@@ -1,0 +1,22 @@
+server:
+  port: 8085
+
+spring:
+  cloud:
+    stream:
+      bindings:
+        inboundSynthesisRequest:
+          destination: synthesisRequestTopic
+          content-type: application/json
+          group: synthesisGroup
+        outboundSynthesisComplete:
+          destination: synthesisCompleteTopic
+          content-type: application/json
+        kafka:
+          binder:
+            zkNodes: localhost
+            brokers: localhost
+
+logging:
+  level:
+    style.everywear.fitting: debug
