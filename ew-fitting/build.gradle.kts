@@ -28,6 +28,9 @@ dependencies {
     implementation("org.springframework.cloud:spring-cloud-stream")
     implementation("org.springframework.cloud:spring-cloud-starter-stream-kafka")
     testImplementation("org.springframework.cloud:spring-cloud-stream-test-support")
+
+    // Spring Boot DevTools
+    implementation("org.springframework.boot:spring-boot-devtools")
 }
 
 dependencyManagement {
