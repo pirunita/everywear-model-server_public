@@ -31,6 +31,13 @@ dependencies {
 
     // Spring Boot DevTools
     implementation("org.springframework.boot:spring-boot-devtools")
+
+    // Firebase Admin SDK
+    implementation("com.google.firebase:firebase-admin:6.8.0")
+
+    // Inject configuration properties
+    implementation("org.springframework.boot:spring-boot-configuration-processor")
+    annotationProcessor("org.springframework.boot:spring-boot-configuration-processor")
 }
 
 dependencyManagement {

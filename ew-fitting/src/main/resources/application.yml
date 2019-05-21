@@ -22,3 +22,6 @@ spring:
 logging:
   level:
     style.everywear.fitting: debug
+
+firebase:
+  service-account-file: /Users/jun097kim/dev/everywear-239804-firebase-adminsdk-5njai-e50f36d65a.json
