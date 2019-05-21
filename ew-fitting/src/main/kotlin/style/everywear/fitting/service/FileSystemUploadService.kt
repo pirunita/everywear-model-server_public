@@ -12,7 +12,7 @@ class FileSystemUploadService {
         const val UPLOAD_PATH = "/Users/jun097kim/dev/everywear-model-server/uploads/"
     }
 
-    fun upload(file: MultipartFile) {
+    fun upload(file: MultipartFile): String {
         val bytes: ByteArray = file.bytes
 
         val timestamp = Timestamp(System.currentTimeMillis())
@@ -21,5 +21,7 @@ class FileSystemUploadService {
 
         Files.createDirectories(path.parent)
         Files.write(path, bytes)
+
+        return path.toString()
     }
 }

@@ -1,5 +1,6 @@
 package style.everywear.synthesis.service
 
+import org.apache.tomcat.util.codec.binary.Base64
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
@@ -14,10 +15,19 @@ import style.everywear.synthesis.event.model.SynthesisRequestModel
 import style.everywear.synthesis.event.source.SynthesisCompleteSource
 import java.io.File
 import java.nio.file.Files
+import java.nio.file.Paths
 import java.util.*
+
+private val session: Session = SavedModelBundle
+        .load("/Users/jun097kim/dev/CycleGAN-TensorFlow/savedmodel/1",
+                "serve")
+        .session()
 
 @Service
 class SynthesisService {
+    companion object {
+        const val UPLOAD_OUTPUT_PATH = "/Users/jun097kim/dev/everywear-model-server/uploads/output/"
+    }
 
     @Autowired
     lateinit var synthesisCompleteSource: SynthesisCompleteSource
@@ -26,19 +36,21 @@ class SynthesisService {
 
     @StreamListener(CustomChannels.INPUT)
     fun loggerSink(synthesisRequest: SynthesisRequestModel) {
+        val inputImagePath: String = synthesisRequest.inputImagePath
+        val inputImageName: String = File(inputImagePath).name
+
         logger.debug("Received an event for User Id {}", synthesisRequest.userId)
+        logger.debug("inputImageName: {}", inputImageName)
 
-        val result: ByteArray = runSavedModel()
+        val output: ByteArray = runSavedModel(inputImagePath)
 
-        // TODO 이미지 저장
+        uploadOutput(inputImageName, output)
 
         publishSynthesisComplete()
     }
 
-    fun runSavedModel(): ByteArray {
-        val session: Session = SavedModelBundle.load("/Users/jun097kim/dev/CycleGAN-TensorFlow/savedmodel/1", "serve").session()
-
-        val file = File("/Users/jun097kim/dev/CycleGAN-TensorFlow/samples/real_apple2orange_1.jpg")
+    fun runSavedModel(filePath: String): ByteArray {
+        val file = File(filePath)
         val fileBytes = Files.readAllBytes(file.toPath())
 
         val inputBytes = Tensor.create(fileBytes)
@@ -49,7 +61,16 @@ class SynthesisService {
                 .fetch("output_bytes")
                 .run()[0]
 
-        return Base64.getEncoder().encode(output.bytesValue())
+        println(String(Base64.encodeBase64(output.bytesValue())))
+
+        return output.bytesValue()
+    }
+
+    fun uploadOutput(originalFilename: String, bytesArray: ByteArray) {
+        val path = Paths.get(UPLOAD_OUTPUT_PATH + originalFilename)
+
+        Files.createDirectories(path.parent)
+        Files.write(path, bytesArray)
     }
 
     fun publishSynthesisComplete() {

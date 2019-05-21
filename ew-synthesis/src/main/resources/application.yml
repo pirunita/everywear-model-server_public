@@ -19,4 +19,4 @@ spring:
 
 logging:
   level:
-    style.everywear.fitting: debug
+    style.everywear.synthesis: debug

@@ -29,17 +29,16 @@ class FittingController {
         var response: Map<String, String>
 
         try {
-            fileSystemUploadService.upload(file)
+            val filePath: String = fileSystemUploadService.upload(file)
             response = Collections.singletonMap("message", "사진을 성공적으로 업로드하였습니다.")
             entity = ResponseEntity(response, HttpStatus.OK)
+            fittingService.publishSynthesisRequest(filePath)
 
         } catch (e: Exception) {
             e.printStackTrace()
             response = Collections.singletonMap("message", "사진 업로드에 실패하였습니다.")
             entity = ResponseEntity(response, HttpStatus.BAD_REQUEST)
         }
-
-        fittingService.publishSynthesisRequest()
 
         return entity
     }

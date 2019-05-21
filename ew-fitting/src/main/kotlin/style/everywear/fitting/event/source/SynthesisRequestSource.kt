@@ -15,13 +15,14 @@ class SynthesisRequestSource @Autowired constructor(private val source: CustomCh
         private val logger: Logger = LoggerFactory.getLogger(SynthesisRequestSource::class.java)
     }
 
-    fun publishSynthesisRequest(action: String, synthesisId: String) {
+    fun publishSynthesisRequest(action: String, filePath: String, synthesisId: String) {
         logger.debug("Sending Kafka message {} for Synthesis Id: {}", action, synthesisId)
 
         val request = SynthesisRequestModel(
                 SynthesisRequestSource::class.java.typeName,
                 action,
                 synthesisId,
+                filePath,
                 "ew-correlation-id"
         )
 

@@ -11,7 +11,7 @@ class FittingService {
     @Autowired
     lateinit var synthesisRequestSource: SynthesisRequestSource
 
-    fun publishSynthesisRequest() {
-        synthesisRequestSource.publishSynthesisRequest("REQUEST", UUID.randomUUID().toString())
+    fun publishSynthesisRequest(filePath: String) {
+        synthesisRequestSource.publishSynthesisRequest("REQUEST", filePath, UUID.randomUUID().toString())
     }
 }
