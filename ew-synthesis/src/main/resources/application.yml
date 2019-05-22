@@ -9,14 +9,18 @@ spring:
           destination: synthesisRequestTopic
           content-type: application/json
           group: synthesisGroup
+          consumer:
+            concurrency: 6
         outboundSynthesisComplete:
           destination: synthesisCompleteTopic
           content-type: application/json
-        kafka:
-          binder:
-            zkNodes: localhost
-            brokers: localhost
+          producer:
+            partitionCount: 20
+      kafka:
+        binder:
+          brokers: localhost
+          autoAddPartitions: true
 
 logging:
   level:
-    style.everywear.synthesis: debug
+    style.everywear: debug

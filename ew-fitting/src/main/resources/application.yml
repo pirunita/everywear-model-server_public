@@ -11,17 +11,21 @@ spring:
           destination: synthesisCompleteTopic
           content-type: application/json
           group: fittingGroup
+          consumer:
+            concurrency: 6
         outboundSynthesisRequest:
           destination: synthesisRequestTopic
           content-type: application/json
-        kafka:
-          binder:
-            zkNodes: localhost
-            brokers: localhost
+          producer:
+            partitionCount: 20
+      kafka:
+        binder:
+          brokers: localhost
+          autoAddPartitions: true
 
 logging:
   level:
-    style.everywear.fitting: debug
+    style.everywear: debug
 
 firebase:
   service-account-file: /Users/jun097kim/dev/everywear-239804-firebase-adminsdk-5njai-e50f36d65a.json
