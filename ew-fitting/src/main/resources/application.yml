@@ -27,5 +27,7 @@ logging:
   level:
     style.everywear: debug
 
-firebase:
-  service-account-file: /Users/jun097kim/dev/everywear-239804-firebase-adminsdk-5njai-e50f36d65a.json
+jib.extras:
+  firebase:
+    service-account-file: /Users/jun097kim/dev/everywear-239804-firebase-adminsdk-5njai-e50f36d65a.json
+  upload-path: /Users/jun097kim/dev/everywear-model-server/uploads/

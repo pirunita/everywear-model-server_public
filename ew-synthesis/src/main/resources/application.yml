@@ -24,3 +24,7 @@ spring:
 logging:
   level:
     style.everywear: debug
+
+jib.extras:
+    saved-model-path: /Users/jun097kim/dev/CycleGAN-TensorFlow/savedmodel/1
+    upload-output-path: /Users/jun097kim/dev/everywear-model-server/uploads/output

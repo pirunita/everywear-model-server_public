@@ -27,8 +27,13 @@ dependencyManagement {
 }
 
 jib {
+    from {
+        image = "gcr.io/distroless/java:debug"
+    }
     to {
         image = "jun097kim/${project.name}"
         tags = setOf("$version", "latest")
     }
+    container.volumes = listOf("/app/uploads")
+    extraDirectories.setPaths("jib-extras")
 }

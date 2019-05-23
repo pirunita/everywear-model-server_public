@@ -17,7 +17,7 @@ class SynthesisRequestSink {
     @Autowired
     lateinit var synthesisService: SynthesisService
 
-    val logger: Logger = LoggerFactory.getLogger(EwSynthesisApplication::class.java)
+    private val logger: Logger = LoggerFactory.getLogger(EwSynthesisApplication::class.java)
 
     @StreamListener(CustomChannels.INPUT)
     fun loggerSink(synthesisRequest: SynthesisRequestModel) {

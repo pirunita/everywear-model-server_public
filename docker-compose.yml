@@ -2,20 +2,30 @@ version: '3'
 services:
   ew-synthesis:
     image: jun097kim/ew-synthesis:1.0.0
+    volumes:
+      - ./uploads:/app/uploads
     ports:
       - "8085:8085"
     depends_on:
       - kafka
     environment:
-      - "JAVA_TOOL_OPTIONS=-Dspring.cloud.stream.kafka.binder.brokers=kafka"
+      JAVA_TOOL_OPTIONS: >-
+        -Dspring.cloud.stream.kafka.binder.brokers=kafka
+        -Djib.extras.saved-model-path=/savedmodel/1
+        -Djib.extras.upload-output-path=/app/uploads/output/
   ew-fitting:
     image: jun097kim/ew-fitting:1.0.0
+    volumes:
+      - ./uploads:/app/uploads
     ports:
       - "8080:8080"
     depends_on:
       - kafka
     environment:
-      - "JAVA_TOOL_OPTIONS=-Dspring.cloud.stream.kafka.binder.brokers=kafka"
+      JAVA_TOOL_OPTIONS: >-
+        -Dspring.cloud.stream.kafka.binder.brokers=kafka
+        -Djib.extras.firebase.service-account-file=/everywear-239804-firebase-adminsdk-5njai-e50f36d65a.json
+        -Djib.extras.upload-path=/app/uploads/
   zookeeper:
     image: wurstmeister/zookeeper
     ports:
@@ -31,3 +41,6 @@ services:
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
+
+volumes:
+  uploads:

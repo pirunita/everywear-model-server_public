@@ -31,8 +31,15 @@ dependencyManagement {
 }
 
 jib {
+    from {
+        image = "gcr.io/distroless/java:debug"
+        // 디버깅용 이미지
+        // docker exec -it CONTAINER_ID /busybox/sh
+    }
     to {
         image = "jun097kim/${project.name}"
         tags = setOf("$version", "latest")
     }
+    container.volumes = listOf("/app/uploads")  // 마운트 포인트
+    extraDirectories.setPaths("jib-extras")     // jib-extras 디렉토리 내의 모든 파일이 이미지의 루트 디렉토리로 복사됨
 }
