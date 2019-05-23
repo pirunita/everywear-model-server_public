@@ -1,4 +1,4 @@
-package style.everywear.synthesis.event.model
+package style.everywear.core.event.model
 
 data class SynthesisCompleteModel(
         val type: String,

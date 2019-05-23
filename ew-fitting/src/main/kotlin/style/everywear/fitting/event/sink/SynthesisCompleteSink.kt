@@ -5,9 +5,9 @@ import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.cloud.stream.annotation.StreamListener
 import org.springframework.stereotype.Component
+import style.everywear.core.event.model.SynthesisCompleteModel
 import style.everywear.fitting.EwFittingApplication
 import style.everywear.fitting.event.CustomChannels
-import style.everywear.fitting.event.model.SynthesisCompleteModel
 import style.everywear.fitting.service.FirebaseService
 
 @Component

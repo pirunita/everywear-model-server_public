@@ -5,9 +5,9 @@ import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.cloud.stream.annotation.StreamListener
 import org.springframework.stereotype.Component
+import style.everywear.core.event.model.SynthesisRequestModel
 import style.everywear.synthesis.EwSynthesisApplication
 import style.everywear.synthesis.event.CustomChannels
-import style.everywear.synthesis.event.model.SynthesisRequestModel
 import style.everywear.synthesis.service.SynthesisService
 import java.io.File
 

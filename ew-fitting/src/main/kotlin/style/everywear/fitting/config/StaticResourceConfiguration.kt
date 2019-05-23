@@ -5,7 +5,7 @@ import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer
 
 @Configuration
-class StaticResourceConfiguration: WebMvcConfigurer {
+open class StaticResourceConfiguration: WebMvcConfigurer {
 
     // Serving static files
     override fun addResourceHandlers(registry: ResourceHandlerRegistry) {

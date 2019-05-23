@@ -5,8 +5,8 @@ import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.messaging.support.MessageBuilder
 import org.springframework.stereotype.Component
+import style.everywear.core.event.model.SynthesisRequestModel
 import style.everywear.fitting.event.CustomChannels
-import style.everywear.fitting.event.model.SynthesisRequestModel
 
 @Component
 class SynthesisRequestSource @Autowired constructor(private val source: CustomChannels) {

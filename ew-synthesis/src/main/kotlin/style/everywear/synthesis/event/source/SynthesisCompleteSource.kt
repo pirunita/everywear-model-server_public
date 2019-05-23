@@ -5,8 +5,8 @@ import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.messaging.support.MessageBuilder
 import org.springframework.stereotype.Component
+import style.everywear.core.event.model.SynthesisCompleteModel
 import style.everywear.synthesis.event.CustomChannels
-import style.everywear.synthesis.event.model.SynthesisCompleteModel
 
 @Component
 class SynthesisCompleteSource @Autowired constructor(private val source: CustomChannels) {

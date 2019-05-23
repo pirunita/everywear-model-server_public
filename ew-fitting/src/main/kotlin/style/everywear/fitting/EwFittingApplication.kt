@@ -7,7 +7,7 @@ import style.everywear.fitting.event.CustomChannels
 
 @SpringBootApplication
 @EnableBinding(CustomChannels::class)
-class EwFittingApplication
+open class EwFittingApplication
 
 fun main(args: Array<String>) {
     runApplication<EwFittingApplication>(*args)

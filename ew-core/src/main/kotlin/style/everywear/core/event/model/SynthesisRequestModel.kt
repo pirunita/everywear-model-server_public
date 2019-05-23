@@ -1,4 +1,4 @@
-package style.everywear.fitting.event.model
+package style.everywear.core.event.model
 
 data class SynthesisRequestModel(
         val type: String,
