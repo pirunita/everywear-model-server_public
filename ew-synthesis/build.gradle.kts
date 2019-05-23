@@ -1,3 +1,7 @@
+plugins {
+    id("com.google.cloud.tools.jib") version "1.2.0"
+}
+
 extra["springCloudVersion"] = "Greenwich.SR1"
 
 dependencies {
@@ -19,5 +23,12 @@ dependencies {
 dependencyManagement {
     imports {
         mavenBom("org.springframework.cloud:spring-cloud-dependencies:${property("springCloudVersion")}")
+    }
+}
+
+jib {
+    to {
+        image = "jun097kim/${project.name}"
+        tags = setOf("$version", "latest")
     }
 }
