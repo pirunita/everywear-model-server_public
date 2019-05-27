@@ -11,6 +11,10 @@ dependencies {
     // TensorFlow CPU
     implementation("org.tensorflow:tensorflow:1.13.1")
 
+    // TensorFlow GPU
+//    implementation("org.tensorflow:libtensorflow:1.13.1")
+//    implementation("org.tensorflow:libtensorflow_jni_gpu:1.13.1")
+
     // Spring Cloud Stream
     implementation("org.springframework.cloud:spring-cloud-stream")
     implementation("org.springframework.cloud:spring-cloud-starter-stream-kafka")

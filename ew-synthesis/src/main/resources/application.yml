@@ -26,5 +26,8 @@ logging:
     style.everywear: debug
 
 jib.extras:
-    saved-model-path: /Users/jun097kim/dev/CycleGAN-TensorFlow/savedmodel/1
-    upload-output-path: /Users/jun097kim/dev/everywear-model-server/uploads/output
+    saved-model:
+      gmm-path: /Users/jun097kim/dev/everywear-model-server/ew-synthesis/jib-extras/savedmodel-gmm/1
+      edm-path: /Users/jun097kim/dev/everywear-model-server/ew-synthesis/jib-extras/savedmodel-edm/1
+      rm-path: /Users/jun097kim/dev/everywear-model-server/ew-synthesis/jib-extras/savedmodel-rm/1
+    upload-output-path: /Users/jun097kim/dev/everywear-model-server/uploads/users/jun097kim/output/stage2/
