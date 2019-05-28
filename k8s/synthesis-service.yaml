@@ -22,7 +22,7 @@ spec:
           env:
             - name: JAVA_TOOL_OPTIONS
               value: >-
-                -Dspring.cloud.stream.kafka.binder.brokers=kafka
+                -Dspring.cloud.stream.kafka.binder.brokers=ew-kafka.kafka.svc.cluster.local
                 -Djib.extras.saved-model-path=/savedmodel/1
                 -Djib.extras.upload-output-path=/app/uploads/output/
 ---

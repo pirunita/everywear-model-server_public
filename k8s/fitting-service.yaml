@@ -22,7 +22,7 @@ spec:
           env:
             - name: JAVA_TOOL_OPTIONS
               value: >-
-                -Dspring.cloud.stream.kafka.binder.brokers=kafka
+                -Dspring.cloud.stream.kafka.binder.brokers=ew-kafka.kafka.svc.cluster.local
                 -Djib.extras.firebase.service-account-file=/everywear-239804-firebase-adminsdk-5njai-e50f36d65a.json
                 -Djib.extras.upload-path=/app/uploads/
 ---
@@ -37,4 +37,4 @@ spec:
     - protocol: TCP
       port: 8080
       targetPort: 8080
-  type: NodePort
+  type: LoadBalancer
