@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ew-fitting-deployment
+  labels:
+    app: ew-fitting
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ew-fitting
+  template:
+    metadata:
+      labels:
+        app: ew-fitting
+    spec:
+      containers:
+      - name: ew-fitting
+        image: jun097kim/ew-fitting:1.0.0
+        ports:
+        - containerPort: 8080
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ew-fitting-service
+spec:
+  selector:
+    app: ew-fitting
+  ports:
+  - protocol: TCP
+    port: 8080
+    targetPort: 8080
+  type: NodePort

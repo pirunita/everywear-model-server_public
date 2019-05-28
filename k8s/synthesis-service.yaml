@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ew-synthesis-deployment
+  labels:
+    app: ew-synthesis
+spec:
+  replicas: 3 # 3개의 Pod을 실행하도록 함
+  selector:
+    matchLabels:
+      app: ew-synthesis
+  template:
+    metadata:
+      labels:
+        app: ew-synthesis
+    spec:
+      containers:
+        - name: ew-synthesis
+          image: jun097kim/ew-synthesis:1.0.0
+          ports:
+            - containerPort: 8085
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ew-synthesis-service
+spec:
+  selector:
+    app: ew-synthesis
+  ports:
+  - protocol: TCP
+    port: 8085
+    targetPort: 8085
+  type: ClusterIP
