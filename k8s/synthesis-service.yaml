@@ -19,6 +19,12 @@ spec:
           image: jun097kim/ew-synthesis:1.0.0
           ports:
             - containerPort: 8085
+          env:
+            - name: JAVA_TOOL_OPTIONS
+              value: >-
+                -Dspring.cloud.stream.kafka.binder.brokers=kafka
+                -Djib.extras.saved-model-path=/savedmodel/1
+                -Djib.extras.upload-output-path=/app/uploads/output/
 ---
 apiVersion: v1
 kind: Service
@@ -28,7 +34,7 @@ spec:
   selector:
     app: ew-synthesis
   ports:
-  - protocol: TCP
-    port: 8085
-    targetPort: 8085
+    - protocol: TCP
+      port: 8085
+      targetPort: 8085
   type: ClusterIP

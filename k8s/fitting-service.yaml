@@ -15,10 +15,16 @@ spec:
         app: ew-fitting
     spec:
       containers:
-      - name: ew-fitting
-        image: jun097kim/ew-fitting:1.0.0
-        ports:
-        - containerPort: 8080
+        - name: ew-fitting
+          image: jun097kim/ew-fitting:1.0.0
+          ports:
+            - containerPort: 8080
+          env:
+            - name: JAVA_TOOL_OPTIONS
+              value: >-
+                -Dspring.cloud.stream.kafka.binder.brokers=kafka
+                -Djib.extras.firebase.service-account-file=/everywear-239804-firebase-adminsdk-5njai-e50f36d65a.json
+                -Djib.extras.upload-path=/app/uploads/
 ---
 apiVersion: v1
 kind: Service
@@ -28,7 +34,7 @@ spec:
   selector:
     app: ew-fitting
   ports:
-  - protocol: TCP
-    port: 8080
-    targetPort: 8080
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080
   type: NodePort
