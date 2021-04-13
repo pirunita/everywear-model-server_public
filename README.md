@@ -22,7 +22,7 @@ EveryWear Model Server 저장소를 Clone하고 빌드합니다.
 
 ```bash
 # 저장소 Clone
-$ https://github.com/jun097kim/everywear-model-server.git
+$ https://github.com/pirunita/everywear-model-server_public.git
 ```
 
 ### 2. 프로퍼티 설정
