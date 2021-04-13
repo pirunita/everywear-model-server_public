@@ -1,0 +1,2555 @@
+Namespace(category_name='', category_num='1001', full_composed_name='', input_dir='', is_upper=0, lower_id='', middle_composed_name='', output_dir='', product_dir='', stage1_dir='', stage2_dir='', upper_id='', user_id='', user_image_id='')
+initialization method [normal]
+initialization method [normal]
+checkpoint_path model/men_tshirts/GMM/gmm_final.pth
+Start GET FLASK
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 34396)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 34544)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 35776)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 35838)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 44276)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 44526)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 44616)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59762)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 60280)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36368)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36760)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36764)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36774)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36778)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36780)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 36784)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+Got connection from ('127.0.0.1', 36790)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 36794)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 36796)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 36798)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37114)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37118)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37122)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37130)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 37134)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+Got connection from ('127.0.0.1', 37136)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37142)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+Got connection from ('127.0.0.1', 37146)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37152)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+Got connection from ('127.0.0.1', 37162)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37716)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37724)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37728)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37732)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 37736)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37738)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 37746)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 37750)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 37752)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 37756)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38022)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38076)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38268)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38270)
+[Waiting for response...]
+dummy 108 102001 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '102001', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='102001', user_id='dummy', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/products/102001.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38648)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_102001_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_102001_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38654)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38954)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 39010)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 39014)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 39722)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40128)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40136)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40138)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40140)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40142)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40144)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40152)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40162)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 40170)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40184)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40400)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40402)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40408)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40410)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40416)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40426)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40428)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40438)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 40452)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 40458)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41342)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41344)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 41346)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 41348)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 41350)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 41352)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41356)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41368)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 41372)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41380)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41472)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 41474)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41476)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 41480)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 41482)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41494)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 41498)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 41502)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41506)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 41516)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 47632)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 47634)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 47640)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 47633)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 47642)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 47670)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 49728)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 49730)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 49736)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 49738)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 49740)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 49782)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50254)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 50256)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50282)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50524)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50532)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50540)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50546)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50560)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 50562)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 50568)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50574)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50586)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50588)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50604)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50620)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50632)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50642)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50648)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50660)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50670)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50678)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50696)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50714)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50728)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50738)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50750)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50754)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50774)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50812)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50824)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50830)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50842)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50850)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50854)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50864)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50868)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50874)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50880)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50898)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 50904)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50912)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50920)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50932)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50936)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50946)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50964)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50974)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50990)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 51002)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 51010)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 51016)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 51030)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 51038)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 57142)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 57538)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 58238)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 58240)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 58242)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 58244)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59020)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59022)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59024)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59026)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59296)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59298)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59300)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 59306)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/jun097kim@gmail.com/Input/upper_images/108.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59526)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59528)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59626)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59628)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59642)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59812)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59814)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59816)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59818)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 59874)
+[Waiting for response...]
+test01@gmail.com 27 000009 000000 1 1001
+40
+[Waiting for connection..]
+['test01@gmail.com', '27', '000009', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/test01@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test01@gmail.com/Output/stage/', upper_id='000009', user_id='test01@gmail.com', user_image_id='27')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 60050)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='27_000009_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='27_000009_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 60052)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 60054)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 60056)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36570)
+[Waiting for response...]
+dummy 108 000022 000000 1 1001
+30
+[Waiting for connection..]
+['dummy', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/dummy/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/dummy/Output/stage/', upper_id='000022', user_id='dummy', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36774)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36776)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36778)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36924)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36926)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36928)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 36934)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37060)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 37062)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37068)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37082)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37090)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37366)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37368)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37370)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37372)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 37390)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 37392)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38120)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+Got connection from ('127.0.0.1', 38122)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+Got connection from ('127.0.0.1', 38124)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+inputA_size torch.Size([1, 22, 256, 192])
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38126)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 38154)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+Got connection from ('127.0.0.1', 38156)
+[Waiting for response...]
+jun097kim@gmail.com 108 000022 000000 1 1001
+44
+[Waiting for connection..]
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+['jun097kim@gmail.com', '108', '000022', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/jun097kim@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/jun097kim@gmail.com/Output/stage/', upper_id='000022', user_id='jun097kim@gmail.com', user_image_id='108')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 49348)
+[Waiting for response...]
+test10000@gmail.com 1 000009 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '1', '000009', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='108_000022_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='108_000022_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000009', user_id='test10000@gmail.com', user_image_id='1')
+Load Model
+***********Data Load Fail************
+[Errno 2] No such file or directory: '../uploads/users/test10000@gmail.com/Input/upper_images/1.png'
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 49564)
+[Waiting for response...]
+test10000@gmail.com 2 000009 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000009', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='1_000009_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='1_000009_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000009', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 49670)
+[Waiting for response...]
+test10000@gmail.com 2 000011 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000011', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000009_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000009_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000011', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 49736)
+[Waiting for response...]
+test10000@gmail.com 2 000038 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000038', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000011_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000011_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000038', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 49794)
+[Waiting for response...]
+test10000@gmail.com 2 000009 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000009', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000038_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000038_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000009', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50138)
+[Waiting for response...]
+test10000@gmail.com 2 000009 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000009', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000009_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000009_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000009', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50232)
+[Waiting for response...]
+test10000@gmail.com 2 000035 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000035', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000009_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000009_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000035', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 50258)
+[Waiting for response...]
+test10000@gmail.com 2 000009 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000009', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000035_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000035_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000009', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 55470)
+[Waiting for response...]
+test10000@gmail.com 2 000011 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000011', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000009_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000009_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000011', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 55658)
+[Waiting for response...]
+test10000@gmail.com 2 000009 000000 1 1001
+42
+[Waiting for connection..]
+['test10000@gmail.com', '2', '000009', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000011_000000_', input_dir='../uploads/users/test10000@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000011_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test10000@gmail.com/Output/stage/', upper_id='000009', user_id='test10000@gmail.com', user_image_id='2')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 35278)
+[Waiting for response...]
+test01@gmail.com 27 000030 000000 1 1001
+40
+[Waiting for connection..]
+['test01@gmail.com', '27', '000030', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='2_000009_000000_', input_dir='../uploads/users/test01@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='2_000009_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test01@gmail.com/Output/stage/', upper_id='000030', user_id='test01@gmail.com', user_image_id='27')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 35318)
+[Waiting for response...]
+test01@gmail.com 27 000040 000000 1 1001
+40
+[Waiting for connection..]
+['test01@gmail.com', '27', '000040', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='27_000030_000000_', input_dir='../uploads/users/test01@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='27_000030_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test01@gmail.com/Output/stage/', upper_id='000040', user_id='test01@gmail.com', user_image_id='27')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 35432)
+[Waiting for response...]
+test01@gmail.com 27 000010 000000 1 1001
+40
+[Waiting for connection..]
+['test01@gmail.com', '27', '000010', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='27_000040_000000_', input_dir='../uploads/users/test01@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='27_000040_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test01@gmail.com/Output/stage/', upper_id='000010', user_id='test01@gmail.com', user_image_id='27')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 35464)
+[Waiting for response...]
+test01@gmail.com 27 000010 000000 1 1001
+40
+[Waiting for connection..]
+['test01@gmail.com', '27', '000010', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='27_000010_000000_', input_dir='../uploads/users/test01@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='27_000010_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test01@gmail.com/Output/stage/', upper_id='000010', user_id='test01@gmail.com', user_image_id='27')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 35494)
+[Waiting for response...]
+test01@gmail.com 27 000006 000000 1 1001
+40
+[Waiting for connection..]
+['test01@gmail.com', '27', '000006', '000000', '1', '1001']
+Namespace(category_name='men_tshirts', category_num='1001', full_composed_name='27_000010_000000_', input_dir='../uploads/users/test01@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='27_000010_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test01@gmail.com/Output/stage/', upper_id='000006', user_id='test01@gmail.com', user_image_id='27')
+Load Model
+parse_array (256, 192)
+<class 'numpy.ndarray'>
+inputA_size torch.Size([1, 22, 256, 192])
+Got connection from ('127.0.0.1', 35574)
+[Waiting for response...]
+test01@gmail.com 27 000013 000000 1 2002
+40
+[Waiting for connection..]
+['test01@gmail.com', '27', '000013', '000000', '1', '2002']
+Namespace(category_name='No data', category_num='2002', full_composed_name='27_000006_000000_', input_dir='../uploads/users/test01@gmail.com/Input/', is_upper=1, lower_id='000000', middle_composed_name='27_000006_', output_dir='', product_dir='../uploads/products/', stage1_dir='', stage2_dir='', stage_dir='../uploads/users/test01@gmail.com/Output/stage/', upper_id='000013', user_id='test01@gmail.com', user_image_id='27')
+Load Model
+Traceback (most recent call last):
+  File "test.py", line 141, in <module>
+    gmm_model = MODEL_DICT[FLAGS.category_num]
+KeyError: '2002'
