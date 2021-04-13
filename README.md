@@ -100,5 +100,5 @@ $ ./gradlew jib
 - 푸시한 이미지를 이용하여 서버를 실행합니다.
 
 ```bash
-$ docker-compose up
+$ docker-compose -f docker/docker-compose.yml up
 ```
