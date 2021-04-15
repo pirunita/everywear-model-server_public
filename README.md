@@ -102,3 +102,34 @@ $ ./gradlew jib
 ```bash
 $ docker-compose -f docker/docker-compose.yml up
 ```
+
+# EVERWEAR Model
+
+## 가상 피팅 서비스 딥러닝 모델 아키텍처
+<img src='./src/1.png'>
+
+ 모델 이름                   | 역할                                
+--------------------------|------------------------------------------------------------------------------------------------------------------------------
+Generator Model           | VITON을 참조한 Multi-taks Encoder-Decoder Generator model입니다. 사용자의 이미지, body segmentation, pose를 통해 중간 이미지를 생성합니다.
+Geometric Matching Model  | CP-VTON을 참조한 Geometric Matching Model입니다. 사용자의 이미지, body segmentation, pose를 통해 옷 이미지를 적절히 warping 합니다.
+Refinement Network Model  | VITON을 참조한 refinement network model입니다. Cascade Refinement Network (CRN)을 기반으로 하며, 중간 이미지와 warping cloth를 통해 질감과 음영이 살아있는 합성 이미지를 생성합니다.
+
+<br><br>
+
+## 상의 및 하의 후처리 알고리즘
+<img src='./src/2.png'>
+
+<br>
+<br>
+
+* 합성하고자 하는 신체 영역만을 추출할 수 있도록 <b>OpenCV</b>​을 사용하여 Image Preprocessing을 통해 적절히 이미지를 분리하는 작업을 설계하였습니다. <u>​현재 상의와 하의 합성이 가능하여 크게 두
+​부분으로 나누어 아키텍처를 설계​하였습니다.</u> 뿐만 아니라 여기에 사용된 Image Preprocessing Module을 활용하여 학습에 사용된 Dataset을 처리하는데도 사용하여 효율을 높였습니다.
+
+* 합성결과를 다시 사용자의 전체 이미지를 붙이기 위한 Image Post-processing을 OpenCV로 구현하였습니다. 기존의 논문에서는 사용되지 않던 ​<br>warping binary mask</br>​를 Background로 사용하여 ​<u>합성된 이미지를 자연스럽게 전신에 붙일 수 있도록 구현​</u>하였습니다.
+
+## 프로토타입
+<img src='./src/3.png'><img src='./src/4.png'><img src='./src/5.png' width="7.8%" height="7.8%"><img src='./src/6.png' width="7.7%" height="7.7%">
+
+<img src='./src/7.png' height="20%" width="20%">
+
+
