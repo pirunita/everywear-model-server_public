@@ -128,8 +128,8 @@ Refinement Network Model  | VITON을 참조한 refinement network model입니다
 * 합성결과를 다시 사용자의 전체 이미지를 붙이기 위한 Image Post-processing을 OpenCV로 구현하였습니다. 기존의 논문에서는 사용되지 않던 ​<br>warping binary mask</br>​를 Background로 사용하여 ​<u>합성된 이미지를 자연스럽게 전신에 붙일 수 있도록 구현​</u>하였습니다.
 
 ## 프로토타입
-<img src='./src/3.png'><img src='./src/4.png'><img src='./src/5.png' width="7.8%" height="7.8%"><img src='./src/6.png' width="7.7%" height="7.7%">
+<img src='./src/3.png'><img src='./src/4.png'><img src='./src/5.png'><img src='./src/6.png'>
 
-<img src='./src/7.png' height="20%" width="20%">
+<img src='./src/7.png'>
 
 
